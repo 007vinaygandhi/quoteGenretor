@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+html{
+    color: rgb(9, 9, 99);
+    background-image: url('https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+font-family: 'Anton', sans-serif;
+
+}
+
+#quoteDisplay{
+    
+    
+    margin-top: 1vh;
+    font-size: 50px;
+
+}
+
+#displayDateTime{
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}
+
+button{
+    background-color: whitesmoke;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px;
+ font-size: 20px ;
+}
+
+button:hover{
+    background-color: rgb(151, 151, 231);
+}
+
+
